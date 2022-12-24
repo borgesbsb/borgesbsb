@@ -80,9 +80,10 @@
            
 
 
-<p>&nbsp;<img align="left"
+<p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=borgesbsb&show_icons=true&theme=elegant&locale=en"
-        alt="borgesbsb" /></p>
+        alt="borgesbsb" />
+</p>
 
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesbsb&hide=javascript,css,scss,html&theme=elegant) 
