@@ -80,12 +80,14 @@
            
 
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=borgesbsb&show_icons=true&theme=elegant&locale=en"
         alt="borgesbsb" /></p>
 
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesbsb&hide=javascript,css,scss,html&theme=elegant)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesbsb&hide=javascript,css,scss,html&theme=elegant) 
 
 [![GitHub
 Streak](http://github-readme-streak-stats.herokuapp.com?user=borgesbsb&hide_border=false)](https://git.io/streak-stats)
+
+
