@@ -81,11 +81,11 @@
 
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=borgesbsb&show_icons=true&theme=dracula&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=borgesbsb&show_icons=true&theme=elegant&locale=en"
         alt="borgesbsb" /></p>
 
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesbsb&hide=javascript,css,scss,html&theme=tokyonight)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesbsb&hide=javascript,css,scss,html&theme=elegant)
 
 [![GitHub
-Streak](http://github-readme-streak-stats.herokuapp.com?user=borgesbsb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+Streak](http://github-readme-streak-stats.herokuapp.com?user=borgesbsb&hide_border=false)](https://git.io/streak-stats)
